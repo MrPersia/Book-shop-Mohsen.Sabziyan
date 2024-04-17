@@ -22,7 +22,7 @@ Um den Bericht zu verwenden, benötigen Sie eine Installation von Power BI Deskt
 
 **Dateistruktur:**
 
-- **/Berichtsdateien:** Enthält die Power BI-Datei (.pbix), die den interaktiven Bericht enthält.
+- **/Berichtsdateien:** Wenn Sie das Dateiprojekt benötigen, stehe ich zur Verfügung.
 - **/Datenquelle:** Enthält die Beispiel-Datenquelle im CSV-Format, die für die Erstellung des Berichts verwendet wurde.
 
 **Anleitung zur Mitwirkung:**
