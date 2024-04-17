@@ -1,7 +1,3 @@
-Dein Berichtsprojekt für den Buchladen sieht schon ziemlich solide aus! Hier ist eine überarbeitete Version:
-
----
-
 **Book-shop-Mohsen.Sabziyan**
 
 **Power BI Buchladen Berichtsprojekt**
