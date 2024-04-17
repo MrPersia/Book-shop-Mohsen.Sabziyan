@@ -31,6 +31,4 @@ Wenn Sie Vorschläge zur Verbesserung des Berichts haben oder Fehler gefunden ha
 
 Ich hoffe, das entspricht Ihren Vorstellungen!
 
----
-
-Passt das so?
+![Book-report  Mohsen Sabziyan](https://github.com/MrPersia/Book-shop-Power-BI-Report-Mohsen.Sabziyan/assets/137727283/89daee14-a3aa-4646-a470-b10de4b14ab3)
